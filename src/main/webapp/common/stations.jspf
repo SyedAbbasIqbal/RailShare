@@ -1,0 +1,61 @@
+<datalist id="stations">
+
+  <!-- Chennai Region -->
+  <option value="Chennai Egmore">
+  <option value="Chennai Central">
+  <option value="Tambaram">
+  <option value="Chengalpattu">
+  <option value="Tiruvallur">
+  <option value="Arakkonam">
+  <option value="Katpadi">
+  <option value="Kanchipuram">
+
+  <!-- North TN -->
+  <option value="Tiruvannamalai">
+  <option value="Jolarpettai">
+  <option value="Vellore">
+  <option value="Ranipet">
+  <option value="Hosur">
+  <option value="Dharmapuri">
+  <option value="Krishnagiri">
+
+  <!-- Central TN -->
+  <option value="Villupuram">
+  <option value="Trichy">
+  <option value="Ariyalur">
+  <option value="Perambalur">
+  <option value="Karur">
+  <option value="Namakkal">
+  <option value="Dindigul">
+
+  <!-- Delta TN -->
+  <option value="Thanjavur">
+  <option value="Kumbakonam">
+  <option value="Mayiladuthurai">
+  <option value="Nagapattinam">
+  <option value="Tiruvarur">
+  <option value="Cuddalore">
+
+  <!-- West TN -->
+  <option value="Salem">
+  <option value="Erode">
+  <option value="Coimbatore">
+  <option value="Tiruppur">
+  <option value="Mettupalayam">
+  <option value="Ooty">
+  <option value="Nilgiris">
+
+  <!-- South TN -->
+  <option value="Madurai">
+  <option value="Virudhunagar">
+  <option value="Sivagangai">
+  <option value="Karaikudi">
+  <option value="Ramanathapuram">
+  <option value="Rameswaram">
+  <option value="Tirunelveli">
+  <option value="Thoothukudi">
+  <option value="Tenkasi">
+  <option value="Nagercoil">
+  <option value="Kanyakumari">
+
+</datalist>
